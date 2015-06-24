@@ -3,7 +3,7 @@ package ch8_Q3_Jukebox;
 import java.util.Set;
 
 /**
- * An implementation of the Jukebox
+ * An implementation of the Jukebox (I didn't use this implementation in my test.)
  * @author yutian
  *
  */
